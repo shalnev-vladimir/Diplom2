@@ -1,7 +1,0 @@
-com\IngredientsHashes.class
-com\IngredientsClient.class
-com\UserClient.class
-com\RestAssuredClient.class
-com\OrderClient.class
-com\UserCredentials.class
-com\User.class
