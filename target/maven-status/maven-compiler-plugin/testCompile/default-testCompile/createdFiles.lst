@@ -1,0 +1,7 @@
+com\CreateOrderTest.class
+com\UserLoginWithoutRequiredFieldNegativeTest.class
+com\GetOrdersOfTheParticularUserTest.class
+com\UserLoginPositiveTest.class
+com\CreateUserTest.class
+com\UnsuccessfulCreatingUserWithInvalidDataNegativeTest.class
+com\ChangeUserInfoTest.class
